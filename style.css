@@ -1,0 +1,93 @@
+body {
+	background-color: #58a4ef;
+	margin: 0;
+	padding: 0;
+}
+.logo {
+	width: 20%;
+	float: left;	
+}
+.palms {
+	width: 70%;
+	height: 75%;
+	opacity: 0.2
+}
+
+.info {
+	list-style: none;
+	width: 20%;
+	float: right;
+	margin-top: 5%;
+	color: blue;
+}
+
+/*.List {
+  list-style: none;
+  
+}*/
+
+.page {
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 70%;
+	height: 1000px;
+	background-color: white;
+	font-family: arial, tahoma;
+}
+
+.flag {
+	height: 5px;
+	float: right;
+	list-style: none;
+	padding-top: 10%;
+    margin-left: 192px;
+}
+.flag li {
+	display: inline;
+	margin-right: 25px;
+}
+.beach {
+	height: 400px;
+	width: 100%;
+}
+.navigation {
+	list-style: none; 
+}
+.navigation li {
+	float: left; 
+	margin-right: 80px;
+}
+.navigation li a {
+	display: block; 
+	padding: 3px 5px;
+	background: #ccc;
+	color: #000;
+	position: relative; 
+}
+.navigation li a:hover {
+	background: #999;
+	color: #fff;
+}
+
+.leftcol {
+	margin-top: 10px;
+	float:left;
+	width: 20%;
+	background-color: pink;
+	display: 3px 5px;
+	position: relative;
+}
+
+.rightcol {
+	margin-top: 10px;
+	float:right;
+	width: 20%;
+	background-color: pink;
+	display: 3px 5px;
+	position: relative;
+}
+
+.nav {
+	background-color: grey;
+	height: 24px;
+}
